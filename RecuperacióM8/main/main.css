@@ -1,0 +1,49 @@
+body{
+	background-color: black;
+}
+
+
+h1{
+	font-family: Times New Roman;
+	color: white;
+	padding-left: 300px;
+}
+
+h3{
+	padding-top: 30px;
+	font-family: Times New Roman;
+	font-size: 25px;
+	color: red;
+	text-align: center;
+}
+
+p{
+	font-family: Times New Roman;
+	font-size: 20px;
+	color: black;
+	text-align: left;
+	padding-top: 90px;
+
+}
+
+#text1{
+	background-color: green;
+	width: 300px;
+	height: 250px;
+}
+
+#text2{
+	background-color: green;
+	width: 570px;
+	height: 250px;
+}
+
+#h1{
+	background-color: blue;
+	text-align: center;
+}
+
+#nom{
+	width: 570px;
+	height: 100px;
+}
